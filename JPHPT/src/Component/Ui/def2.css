@@ -1,0 +1,8 @@
+@font-face{font-family:"Helvetica";src:url(/static/media/Helvetica.06113bf7.ttf) format("truetype");font-weight:400;font-style:normal}
+@font-face{font-family:"Helvetica";src:url(/static/media/Helvetica-light.6e816f78.ttf) format("truetype");font-weight:300}
+@font-face{font-family:"Helvetica";src:url(/static/media/Helvetica-Bold.ed57aca7.ttf) format("truetype");font-weight:700}
+body{font-family:"Helvetica"}
+a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,input,ins,kbd,label,legend,li,mark,menu,nav,object,ol,
+output,p,pre,q,ruby,s,samp,section,small,s
+pan,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;font-family:"Helvetica";box-sizing:border-box}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:"";content:none}table{border-collapse:collapse;border-spacing:0}a{text-decoration:none;cursor:pointer}img{max-width:100%}button{cursor:pointer}button:focus,input:focus{outline:unset}
+.uppercase{text-transform:uppercase}

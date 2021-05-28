@@ -1,0 +1,26 @@
+body{
+  background-color: #262439;
+}
+.Mui-selected{
+  background-color: #ff7555 !important;
+  color: white !important;
+  border-radius: 5px 5px 0px 0px !important;
+}
+.MuiTabs-indicator {
+background-color: rgb(218, 203, 203) !important;
+}
+.selected2{
+  color: rgb(243, 243, 243) !important;
+  background-color: #ffa143 !important;
+}
+.MuiPagination-ul >li >button {
+  color: #7895b1;
+}
+.MuiPaginationItem-root  {
+color: #7895b1 !important;
+}
+.makeStyles-root-10 {
+  background: #283246 !important;
+  color: #edf0f7 !important;
+}
+
